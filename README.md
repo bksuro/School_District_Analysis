@@ -19,16 +19,20 @@ Maria a data scientist for City School District has requested us to analyze read
 ## Summary
   - District's key metrics
   !["district summary"](./Resources/district_summary.png "District's key metrics")
-  - An overview of the key metrics for each school, presented in a table format
+  - Key metrics for each school
   !["schools' summary"](./Resources/schools_summary.png "Schools' key metrics")
-  - Tables presenting each of the following metrics:
-    - Top 5 and bottom 5 performing schools, based on the overall passing rate
+  
+  - Additional Metrics:
+    - Top 5 performing schools, based on the overall passing rate
     !["Top 5 schools"](./Resources/top5_schools.png "District's Top 5 schools")
+    - Bottom 5 performing schools, based on the overall passing rate
     !["Bottom 5 schools"](./Resources/bottom5_schools.png "District's Bottom 5 schools")
+    
     - The average math score received by students in each grade level at each school
     !["Average Math all grades"](./Resources/avg_math_scores_by_grade.png "Average math score in each grade of schools")
     - The average reading score received by students in each grade level at each school
     !["Average Reading all grades"](./Resources/avg_reading_scores_by_grade.png "Average reading score in each grade of schools")
+    
     - School performance based on the budget per student
     !["Performance based on the budget per student"](./Resources/budget_per_student.png "School performance based on the budget per student")
     - School performance based on the school size 
@@ -48,15 +52,28 @@ So she has requested us to replace the math and reading scores, and once that is
 Replace math and reading scores for Thomas High School 9th grade with 'NaN' and repeat the analysis and provide the same deliverables as above and answer the following questions.
 
 ## Challenge Summary
-  - A high-level snapshot of the district's key metrics, presented in a table format
-  - An overview of the key metrics for each school, presented in a table format
-  - Tables presenting each of the following metrics:
-    - Top 5 and bottom 5 performing schools, based on the overall passing rate
+  - District's key metrics
+  !["district summary"](./Resources/district_summary.png "District's key metrics")
+  - Key metrics for each school
+  !["schools' summary"](./Resources/schools_summary.png "Schools' key metrics")
+  
+  - Additional Metrics:
+    - Top 5 performing schools, based on the overall passing rate
+    !["Top 5 schools"](./Resources/top5_schools.png "District's Top 5 schools")
+    - Bottom 5 performing schools, based on the overall passing rate
+    !["Bottom 5 schools"](./Resources/bottom5_schools.png "District's Bottom 5 schools")
+    
     - The average math score received by students in each grade level at each school
+    !["Average Math all grades"](./Resources/avg_math_scores_by_grade.png "Average math score in each grade of schools")
     - The average reading score received by students in each grade level at each school
+    !["Average Reading all grades"](./Resources/avg_reading_scores_by_grade.png "Average reading score in each grade of schools")
+    
     - School performance based on the budget per student
+    !["Performance based on the budget per student"](./Resources/budget_per_student.png "School performance based on the budget per student")
     - School performance based on the school size 
+    !["Performance based on the school size"](./Resources/school_size.png "School performance based on the school size")
     - School performance based on the type of school
+    !["Performance based on the type of school"](./Resources/type_of_school.png "School performance based on the type of school")
 
 ## Comparison
   - How is the district summary affected?
