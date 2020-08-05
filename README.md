@@ -109,14 +109,14 @@ Replace math and reading scores for Thomas High School 9th grade with 'NaN' and 
   
   - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
-     Math:
-     !["Average Math all grades"](./Resources/challenge_avg_math_scores_by_grade.png "Average math score in each grade of schools after changes")
-     !["Average Math all grades"](./Resources/avg_math_scores_by_grade.png "Average math score in each grade of schools")
-     
-     Reading:
-     !["Average Reading all grades"](./Resources/challenge_avg_reading_scores_by_grade.png "Average reading score in each grade of schools after changes")
-     !["Average Reading all grades"](./Resources/avg_reading_scores_by_grade.png "Average reading score in each grade of schools")
-  
+      1) Math:
+        !["Average Math all grades"](./Resources/challenge_avg_math_scores_by_grade.png "Average math score in each grade of schools after changes")
+        !["Average Math all grades"](./Resources/avg_math_scores_by_grade.png "Average math score in each grade of schools")
+        
+      2) Reading:
+        !["Average Reading all grades"](./Resources/challenge_avg_reading_scores_by_grade.png "Average reading score in each grade of schools after changes")
+        !["Average Reading all grades"](./Resources/avg_reading_scores_by_grade.png "Average reading score in each grade of schools")
+        
     - Scores by school spending
      !["Performance based on the budget per student"](./Resources/challenge_budget_per_student.png "School performance based on the budget per student after changes")
      !["Performance based on the budget per student"](./Resources/budget_per_student.png "School performance based on the budget per student")
