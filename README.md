@@ -95,18 +95,25 @@ Replace math and reading scores for Thomas High School 9th grade with 'NaN' and 
   - How is the district summary affected?
    !["district summary"](./Resources/challenge_district_summary.png "District's key metrics after changes")
    !["district summary"](./Resources/district_summary.png "District's key metrics")
-  
+   
+   After removing 9th grade math and reading grades for Thomas High School, there was almost no effect on the average math and reading scores, however % passing in math, reading, and overall went down by 1.
+   
+   
   - How is the school summary affected?
    !["schools' summary"](./Resources/challenge_schools_summary.png "Schools' key metrics after changes")
    !["schools' summary"](./Resources/schools_summary.png "Schools' key metrics")
-  
+   
+   There is not much change in average math and reading scores, however the % math passing fell by 26%, % reading passing fell by 27%, and % overall passing fell by 26%.
+   
+   
   - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
    !["Top 5 schools"](./Resources/challenge_top5_schools.png "District's Top 5 schools after changes")
    !["Top 5 schools"](./Resources/top5_schools.png "District's Top 5 schools")
-  
+   
+   
    !["Bottom 5 schools"](./Resources/challenge_bottom5_schools.png "District's Bottom 5 schools after changes")
    !["Bottom 5 schools"](./Resources/bottom5_schools.png "District's Bottom 5 schools")
-  
+   
   - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
       1) Math:
@@ -120,12 +127,12 @@ Replace math and reading scores for Thomas High School 9th grade with 'NaN' and 
     - Scores by school spending
      !["Performance based on the budget per student"](./Resources/challenge_budget_per_student.png "School performance based on the budget per student after changes")
      !["Performance based on the budget per student"](./Resources/budget_per_student.png "School performance based on the budget per student")
-    
+     
     - Scores by school size
      !["Performance based on the school size"](./Resources/challenge_school_size.png "School performance based on the school size after changes")
      !["Performance based on the school size"](./Resources/school_size.png "School performance based on the school size")
-    
+     
     - Scores by school type
      !["Performance based on the type of school"](./Resources/challenge_type_of_school.png "School performance based on the type of school after changes")
      !["Performance based on the type of school"](./Resources/type_of_school.png "School performance based on the type of school")
-    
+     
